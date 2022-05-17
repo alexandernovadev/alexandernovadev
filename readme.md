@@ -6,6 +6,8 @@ I'm a professional software developer for more than 4 years.
 
 In 2013 Begin my way like a Developer, I want to return all the knowledge that the people.
 
+<img src="https://github.com/alexandernovadev/alexandernovadev/blob/main/LinkedIn_Logo.svg%20(1).png" />
+
 ## Skills:
 
 
@@ -21,7 +23,7 @@ And more...
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alexandernovadev)
+[![LinkedIn](https://github.com/alexandernovadev/alexandernovadev/blob/main/LinkedIn_Logo.svg%20(1).png)](https://www.linkedin.com/in/alexandernovadev)
 
 
 ## Contact
