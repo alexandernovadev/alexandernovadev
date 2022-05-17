@@ -1,4 +1,4 @@
-# ![https://alexsk88.org](https://thumbs.dreamstime.com/b/web-developer-icon-elements-development-neon-style-icons-simple-websites-design-mobile-app-info-graphics-dark-188770740.jpg) Hello, my name is Alexander Nova
+# ![https://alexsk88.org](https://github.com/alexandernovadev/alexandernovadev/blob/main/ima.jpg) Hello, my name is Alexander Nova
 ###  FullStack engineer
 
 
