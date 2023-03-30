@@ -6,7 +6,7 @@ I'm a professional software developer for more than 5 years.
 
 In 2013 Begin my way like a Developer, I want to return all the knowledge that the people.
 
-<img src="https://github.com/alexandernovadev/alexandernovadev/blob/main/1338396%20(1)%20(1).png" style="border-radius:20px;"/>
+<img src="https://github.com/alexandernovadev/alexandernovadev/blob/main/1338396%20(1)%20(1).png" style="border-radius:20px;width:90px;"/>
 
 ## Skills:
 
