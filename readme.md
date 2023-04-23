@@ -1,6 +1,6 @@
 # ![https://alexsk88.org](https://github.com/alexandernovadev/alexandernovadev/blob/main/ima.jpg) Hey,Im Alexander Nova
 
-###  FullStack engineer
+###  FullStack Engineer
 
 
 Full-stack developer with more than 5 years of experience creating attractive, efficient and scalable web and mobile applications. My experience in different languages and technologies allows me to easily adapt to the challenges and needs of each project.
