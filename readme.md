@@ -2,8 +2,10 @@
 
 ###  Software Engineer
 
-|----------|----------|
-| I have been working with React, Redux, and React Native for many years, gaining extensive experience and expertise in these technologies. Throughout my career, I have successfully developed various projects using React for web applications, Redux for state management, and React Native for mobile app development.This prolonged exposure has allowed me to master the intricacies of these frameworks and libraries.  | <img src="https://github.com/alexandernovadev/alexandernovadev/blob/main/1338396%20(1)%20(1).png" style="border-radius:20px;width:300px;"/>|
+
+I have been working with React, Redux, and React Native for many years, gaining extensive experience and expertise in these technologies. Throughout my career, I have successfully developed various projects using React for web applications, Redux for state management, and React Native for mobile app development.This prolonged exposure has allowed me to master the intricacies of these frameworks and libraries.  
+<hr/>
+<img src="https://github.com/alexandernovadev/alexandernovadev/blob/main/1338396%20(1)%20(1).png" style="border-radius:20px;width:300px;"/>
 
 
 ## Skills:
