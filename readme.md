@@ -1,4 +1,4 @@
-# ![https://alexsk88.org](https://github.com/alexandernovadev/alexandernovadev/blob/main/ima.jpg) Hey,Im Alexander Nova
+# ![https://alexsk88.org](https://github.com/alexandernovadev/alexandernovadev/blob/main/ima.jpg) Hey,I'm Alexander Nova
 
 ###  Software Engineer
 
