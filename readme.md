@@ -20,7 +20,7 @@ I have been working with React, Redux, and React Native for many years, gaining 
 
 ## Find me at:
 
-[![LinkedIn](https://github.com/alexandernovadev/alexandernovadev/blob/main/LinkedIn_Logo.svg%20(1).png)](https://www.linkedin.com/in/alexandernovadev)
+[![LinkedIn](https://github.com/alexandernovadev/alexandernovadev/blob/main/LinkedIn_Logo.svg%20(1).png)](https://www.linkedin.com/in/developeralexnova)
 
 
 ## Contact
