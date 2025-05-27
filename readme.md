@@ -1,28 +1,52 @@
-# ![https://alexsk88.org](https://github.com/alexandernovadev/alexandernovadev/blob/main/ima.jpg) Hey, I'm Alexander Nova
+# 👋 Hey, I'm **Alexander Nova**
 
-###  Software Engineer
+### 💻 Senior Software Engineer | React Expert | Full-Stack Developer  
 
+With over **7 years of experience**, I specialize in crafting robust, scalable web and mobile applications using **React**, **React Native**, **TypeScript**, and **Node.js**.  
+I build clean, maintainable code and enjoy turning complex problems into intuitive user experiences.  
 
-I have been working with React, Redux, and React Native for many years, gaining extensive experience and expertise in these technologies. Throughout my career, I have successfully developed various projects using React for web applications, Redux for state management, and React Native for mobile app development.This prolonged exposure has allowed me to master the intricacies of these frameworks and libraries.  
-<hr/>
-<img src="https://github.com/alexandernovadev/alexandernovadev/blob/main/1338396%20(1)%20(1).png" style="border-radius:20px;width:300px;"/>
+---
 
+## 🚀 Tech Stack
 
-## Skills:
+**Frontend**
+- ⚛️ React, React Native, Next.js  
+- 📦 Redux, Zustand, React Query  
+- 💅 TailwindCSS, Styled Components  
+- 🧪 Vitest, React Testing Library, Storybook  
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+**Backend & DevOps**
+- 🟩 Node.js, Express  
+- 🌐 REST APIs, GraphQL  
+- 🧭 MongoDB, MySQL, Firebase  
+- ☁️ AWS (S3, Lambda), Vercel, Netlify  
+- 🐳 Docker, GitHub Actions, CI/CD  
 
+---
 
-## Find me at:
+## 🧠 What I’m Great At
 
-[![LinkedIn](https://github.com/alexandernovadev/alexandernovadev/blob/main/LinkedIn_Logo.svg%20(1).png)](https://www.linkedin.com/in/developeralexnova)
+✅ Building scalable frontends with modern frameworks  
+✅ Architecting full-stack solutions  
+✅ Creating smooth user experiences in both web and mobile  
+✅ Writing reliable, well-tested code  
+✅ Collaborating with cross-functional teams using Agile & Kanban  
 
+---
 
-## Contact
+## 🌍 Connect with Me
 
-alexsk88.dev@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexanderdevmern)  
+📬 **Email:** alexsk88.dev@gmail.com  
+
+---
+
+## 🎯 Currently Working On
+
+- 🧪 Improving test coverage using Vitest  
+- 🧠 Deep diving into advanced React patterns and performance optimization  
+- 📈 Investing in the stock market and building trading strategies  
+
+---
+
+_“Code is a tool. The real product is the experience you create.”_
